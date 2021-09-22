@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="/readme/demo.gif">
+  <img src="/readme/demo.png">
 </p>
 
 <h2>🔥Technologies</h2>
