@@ -8,7 +8,7 @@
 body{
     width: 100%;
     height: 100vh;
-    background: linear-gradient(120deg, #81b71a, #111111);
+    background: linear-gradient(150deg, #1DB954, #191414);
     padding: 40px;
     display: flex;
     justify-content: center;
@@ -17,7 +17,7 @@ body{
 
 .display{
     background: rgba( 255, 255, 255, 0.25 );
-    box-shadow: 0 8px 32px 0 #81b71a);
+    box-shadow: 0 8px 32px 0 #1DB954);
     backdrop-filter: blur( 4px );
     -webkit-backdrop-filter: blur( 4px );
     border-radius: 10px;
