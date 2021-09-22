@@ -9,6 +9,7 @@
   <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/AlencarLeo/JS-MusicPlayer?style=for-the-badge">
   <img alt="GitHub" src="https://img.shields.io/github/license/AlencarLeo/JS-MusicPlayer?style=for-the-badge">
 </p>
+
 <p align="center">
   <img src="/readme/demo.gif">
 </p>
